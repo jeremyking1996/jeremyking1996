@@ -7,6 +7,6 @@
 - 💬 Ask me about pretty much anything JS related!
 - 📫 How to reach me: email: jeremyking96@me.com
 - 😄 Pronouns: He/Him/They
-- ⚡ Fun fact: Joel Embiid is the MVP of the NBA
+- ⚡ Fun fact: Code Differently is an amazing tech bootcamp!
 - 💁🏻 About me: I am a new-learned JS developer, fresh out of a coding bootcamp! Excited to continue learning new skills and further improve my coding ability!
 -->
