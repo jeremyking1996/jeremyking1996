@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on mastering JavaScript!
 - 🌱 I’m currently learning AWS cloud technologies
 - 👯 I’m looking to collaborate on anything that will help with the mastering of JavaScript!
-- 🤔 I’m looking for help with learning Java
+- 🤔 I’m looking for help with learning Machine Learning foundations!
 - 💬 Ask me about pretty much anything JS related!
 - 📫 How to reach me: email: jeremyking96@me.com
 - 😄 Pronouns: He/Him/They
