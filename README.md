@@ -8,5 +8,4 @@
 - 📫 How to reach me: email: jeremyking96@me.com
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: Code Differently is an amazing tech bootcamp!
-- 💁🏻 About me: I am a new-learned JS developer, fresh out of a coding bootcamp! Excited to continue learning new skills and further improve my coding ability!
--->
+- 💁🏻 About me: I am a bootcamp graduate with a certificate in JavaScript/Front end Web Development, also recently assisted teaching Java foundations to a cohort of highschool students from June through August! It was an awesome experience and now feel safe saying I am proficent in Java and JavaScript!
